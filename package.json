@@ -5,7 +5,7 @@
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://tatiana-merz.github.io"
   },
   "keywords": [
     "gatsby"
@@ -21,8 +21,7 @@
     "clean": "gatsby clean",
     "prepare": "husky install",
     "lint-staged": "lint-staged",
-    "deploy": "gatsby build && gh-pages -d public -b main"
-
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [
@@ -62,6 +61,11 @@
     "scrollreveal": "^4.0.5",
     "styled-components": "^5.3.0"
   },
+
+  "resolutions": {
+    "**/graphql": "^15.8.0"
+  },
+  
   "devDependencies": {
     "@babel/core": "^7.14.0",
     "@babel/eslint-parser": "^7.13.14",
@@ -74,6 +78,7 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.23.2",
     "gatsby-remark-code-titles": "^1.1.0",
+    "gh-pages": "^5.0.0",
     "husky": "^6.0.0",
     "lint-staged": "^10.1.2",
     "prettier": "^2.2.1"
