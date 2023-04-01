@@ -1,16 +1,12 @@
 ---
-date: '3'
-title: 'Build a Spotify Connected App'
+date: '1'
+title: 'Turkic-cyrillic-classifier'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cta: 'https://huggingface.co/tatiana-merz/turkic-cyrillic-classifier'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Text classification
+  - Transformers
+  - Multilingual BERT
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+The sequence classification model had been trained to distinquish between Turkic language written in Cyrillic script for Bashkir, Chuvash, Sakha, Tatar, Kyrgyz, Kazakh, Tuvinian, Karachay-Balkar, and Russian.

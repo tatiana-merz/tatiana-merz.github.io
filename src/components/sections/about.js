@@ -143,11 +143,12 @@ const About = () => {
 
             <p>
               Later on, I had the privilege to utilize my expertise working at{' '}
-              <a href="https://huawei.com/"></a>,{' '}
-              <a href="https://uni-tuebingen.de"></a>,{' '}
+              <a href="https://huawei.com/">Huawei</a>,{' '}
+              <a href="https://uni-tuebingen.de">Universität Tübingen</a>,{' '}
+              <a href="http://mineandmake.com">mine&make</a> and{' '}
+              </p>
 
-              <a href="http://mineandmake.com"></a> and{' '}
-
+            <p>
               My main focus these days is building tools for technical products and manufacturing competencies.
               Aside from that, I like working on development of modern open-source products and digital
               experiences for digital humanities and low-resource languages.

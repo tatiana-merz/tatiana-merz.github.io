@@ -1,11 +1,12 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2021-03-01'
+title: 'Research Assistant'
+company: 'Universität Tübingen'
+location: 'Tübingen, Germany'
+range: 'March 2021 - September 2022'
+url: 'https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Text pre-processing, data collection and annotation
+- Data analysis and visualisation of Amazonian languages
+- Development of web applications

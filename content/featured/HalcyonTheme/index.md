@@ -1,15 +1,12 @@
 ---
-date: '1'
-title: 'Halcyon Theme'
+date: '3'
+title: 'UD-Treebank'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/UniversalDependencies/UD_Yakut-YKTDT/tree/master'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Morphology
+  - Syntax
+  - Lemmatization
+  - Translation
 ---
-
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+UD_Yakut-YKTDT is a collection of annotated sentences in Yakut ([Sakha](https://glottolog.org/resource/languoid/id/yaku1245)). The project is work-in-progress and being updated on a regular basis by Tatiana Merzhevich and Fabrício Ferraz Gerardi.

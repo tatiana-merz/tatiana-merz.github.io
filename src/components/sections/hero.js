@@ -68,7 +68,7 @@ const Hero = () => {
         Currently, I’m working on development of NLP products for technical components and high-tech manufacturing processes
         at{' '}
         <a href="http://mineandmake.com" target="_blank" rel="noreferrer">
-          Upstatement
+          mine&make
         </a>
         .
       </p>
