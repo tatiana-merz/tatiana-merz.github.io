@@ -61,8 +61,8 @@ const PostTemplate = ({ data, location }) => {
       <StyledPostContainer>
         <span className="breadcrumb">
           <span className="arrow">&larr;</span>
-          <Link to="/pensieve">All memories</Link>
-        </span>
+          <Link to="pensieve">All memories</Link>
+          </span>
 
         <StyledPostHeader>
           <h1 className="medium-heading">{title}</h1>
