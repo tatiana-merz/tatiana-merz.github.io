@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://tatiana-merz.github.io/sitemap.xml
-Host: https://tatiana-merz.github.io
