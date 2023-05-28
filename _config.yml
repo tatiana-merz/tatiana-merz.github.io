@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Tatiana Merzhevich
+description: My CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://tatiana-merz.github.io
 url: https://tatiana-merz.github.io
@@ -18,68 +18,84 @@ author:
   title: Computational Linguist
   address: Stuttgart, Germany
   email: tatiana.merzhevich@gmail.com
-  link: http://ddbullfrog.com
+  link: https://tatiana-merz.github.io/
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: tatiana-merz
+  linkedin: tatiana-merzhevich-3210b0235
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
+      company: mine&make GmbH
+      location: Stuttgart, Germany
       title: Computational Linguist
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2022
+      duration: (10/2022 - Present)
+      description: • Validation and deployment NLP modules (NER, RE, Coreference)
+                   • Linguistic research
+                   • Frontend developmen
+                   • Students supervision
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Computational Linguist
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Universität Tübingen
+      location: Tübingen, Germany
+      title: Research Assistant
+      started: 2022
+      duration: (03/2021 – 09/2022)
+      description:  • Data analysis (Pandas)
+                    • Data visualisation (R, Tableau)
+                    • Development of web applications (Shiny)
+                    • Text processing (Python)
+                    • Treebanks development
+                    • Linguistic data collection
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Computational Linguist
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Huawei
+      location: Saint Petersburg, Russia
+      title: Linguist
+      started: 2019
+      duration: (10/2019 – 02/2021)
+      description: • Corpora design for a multilingual voice assistant
+                   • Text annotation and normalization
+                   • Data evaluation with MOS and unit test
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: Universität Tübingen
+      location: Tübingen, Germany
+      degree: MA
+      major: Computational Linguistics
+      started: 2019
+      duration: (2019 - 2022)
+    - education2:
+      organization: State University of Aerospace Instrumentation
+      location: Saint Petersburg, Russia
+      degree: BA
+      major: General Linguistics
+      started: 2015
+      duration: (2015 - 2019)
   languages:
     - language1:
-      name: Chinese
+      name: Russian
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
+      proficiency: Advanced
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: German
+      proficiency: Intermediate
+    - language4:
+      name: Portuguese
+      proficiency: Beginner
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Python
       percentage: 100%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Transformers
+      percentage: 100%
     - skill3:
+      name: SpaCy
+      percentage: 100%
+    - skill4:
+      name: SQL
+      percentage: 90%
+    - skill5:
       name: JavaScript
       percentage: 70%
-    - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
-      percentage: 90%
