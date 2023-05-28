@@ -38,6 +38,7 @@ layout: default
                                 <div class="timeline-body">
                                     {% if work.description %}
                                         <p>{{ work.description }}</p>
+                                        <p>{{ work.description2 }}</p>
                                     {% endif %}
                                 </div>
                             </div>
@@ -46,7 +47,7 @@ layout: default
                 </ul>
             {% endif %}
             {% if site.author.educationHistory %}
-                <h3 class="title with-icon"><span class="fa fa-book cat-title"></span>Education History</h3>
+                <h3 class="title with-icon"><span class="fa fa-book cat-title"></span>Educational Background</h3>
                 <ul class="timeline">
                     {% for education in site.author.educationHistory %}
                         <li class="timeline-inverted">

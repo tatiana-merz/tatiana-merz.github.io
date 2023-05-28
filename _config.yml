@@ -1,7 +1,7 @@
 # Site settings
 title: Tatiana Merzhevich
 description: My CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/me.png
 baseurl: https://tatiana-merz.github.io
 url: https://tatiana-merz.github.io
 rss_url: /pages/atom.xml
@@ -43,6 +43,7 @@ author:
       description:  • Data analysis (Pandas)
                     • Data visualisation (R, Tableau)
                     • Development of web applications (Shiny)
+      description2: 
                     • Text processing (Python)
                     • Treebanks development
                     • Linguistic data collection
