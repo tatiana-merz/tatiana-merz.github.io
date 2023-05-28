@@ -1,7 +1,7 @@
 # Site settings
 title: Tatiana Merzhevich
 description: My CV
-favicon: /blob/main/_site/assets/img/me.png
+favicon: https://raw.githubusercontent.com/tatiana-merz/tatiana-merz.github.io/d3335f3927e1b25fc9e6b2ced9098f46b829cce2/_site/assets/img/me.png
 baseurl: https://tatiana-merz.github.io
 url: https://tatiana-merz.github.io
 rss_url: /pages/atom.xml
@@ -22,7 +22,7 @@ author:
   weibo:
   github: tatiana-merz
   linkedin: tatiana-merzhevich-3210b0235
-  gavatar: /blob/main/_site/assets/img/me.png
+  gavatar: https://raw.githubusercontent.com/tatiana-merz/tatiana-merz.github.io/d3335f3927e1b25fc9e6b2ced9098f46b829cce2/_site/assets/img/me.png
   workHistory:
     - work1:
       company: mine&make GmbH
