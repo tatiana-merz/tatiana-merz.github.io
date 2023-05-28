@@ -1,41 +1,87 @@
-# resumecard
--------
-resumecard is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for personal resume.  
+<div align="center">
+  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+</div>
+<h1 align="center">
+  brittanychiang.com - v4
+</h1>
+<p align="center">
+  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+</p>
+<p align="center">
+  Previous iterations:
+  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
+  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
+  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
+</p>
+<p align="center">
+  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+  </a>
+</p>
 
-[![Build Status](https://travis-ci.org/ddbullfrog/resumecard.svg?branch=gh-pages)](https://travis-ci.org/ddbullfrog/resumecard)
+![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
 
-## Demo
--------
-You can see the live demo of [resumecard](https://ddbullfrog.github.io/resumecard)
+## 🚨 Forking this repo (please read!)
 
-This is the web page on desktop browser.
+Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
 
-![Desktop](https://github.com/ddbullfrog/resumecard/blob/gh-pages/_assets/normal.jpg)
+I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
 
-## Getting Started
--------
-- [Fork this repository](https://github.com/ddbullfrog/resumecard/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/resumecard`
-- Run the jekyll server: `jekyll serve`
+Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
 
-You should have a server up and running locally at <http://localhost:4000>.
+### TL;DR
 
-## Features
--------
-- Responsive Jekyll theme
-- Easy integration with Google Analytics
+Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
-## Configuration
--------
-- _config.yml
--  CNAME
-	If you're using it on GitHub Pages with a custom domain name, 
-	you'll want to change it to be the domain you're going to use. 
-	All that should be in here is a domain name on the first line and nothing else (like: `example.com`).
--  avatar.JPG
-	This is a smaller version of my gravatar for use as the icon in your browser's address bar. 
-	You should change it to whatever you'd like.
+## 🛠 Installation & Set Up
 
-## License
--------
-Open sourced under the [MIT license](LICENSE.md).
+1. Install the Gatsby CLI
+
+   ```sh
+   npm install -g gatsby-cli
+   ```
+
+2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+
+   ```sh
+   nvm install
+   ```
+
+3. Install dependencies
+
+   ```sh
+   yarn
+   ```
+
+4. Start the development server
+
+   ```sh
+   npm start
+   ```
+
+## 🚀 Building and Running for Production
+
+1. Generate a full static production build
+
+   ```sh
+   npm run build
+   ```
+
+1. Preview the site as it will appear once deployed
+
+   ```sh
+   npm run serve
+   ```
+
+## 🎨 Color Reference
+
+| Color          | Hex                                                                |
+| -------------- | ------------------------------------------------------------------ |
+| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
+| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
+| Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
+| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
+| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
+| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
+| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
+| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
