@@ -1,41 +1,28 @@
-# resumecard
--------
-resumecard is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for personal resume.  
+### Hi there 👋
 
-[![Build Status](https://travis-ci.org/ddbullfrog/resumecard.svg?branch=gh-pages)](https://travis-ci.org/ddbullfrog/resumecard)
+<!--
+**alchemz/alchemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-## Demo
--------
-You can see the live demo of [resumecard](https://ddbullfrog.github.io/resumecard)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me About ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-This is the web page on desktop browser.
+Lily (Xianling) Zhang is a Machine Learning Research Scientist at Ford Autonomy, Palo Alto, CA, located at [Ford Greenfield Labs, Stanford Research Park](https://corporate.ford.com/operations/locations/silicon-valley.html). She is working on Perception and Prediction for autonomous driving tasks. 
 
-![Desktop](https://github.com/ddbullfrog/resumecard/blob/gh-pages/_assets/normal.jpg)
+## 🔭 Research projects:
+- 3D perception and motion prediction
+- Geometric scene understanding based data manipulation(scene relighting) to significantly improve the performance of SOTA CenterTrack algorithm.
+- Dataset bias identification using perceptual similarity based data clustering for large scale dataset meta labeling, similar data searching, balanced data selection for training set curation.
+- Image synthesize using Generative Adversarial Networks(GANs) and 3D game engines that achieves consistent improvement over multple autonomous driving task: parking slot detection, highway lane segmentation, and monodepth estimation.
 
-## Getting Started
--------
-- [Fork this repository](https://github.com/ddbullfrog/resumecard/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/resumecard`
-- Run the jekyll server: `jekyll serve`
+## 💬 Recent News:
+- One of her recent 2022 CVPR publication on scene relighting has been accepted to NVIDIA GTC 2023. She is looking forward to sharing the work with the community. Feel free to bring some tough questions in the session.😄
 
-You should have a server up and running locally at <http://localhost:4000>.
-
-## Features
--------
-- Responsive Jekyll theme
-- Easy integration with Google Analytics
-
-## Configuration
--------
-- _config.yml
--  CNAME
-	If you're using it on GitHub Pages with a custom domain name, 
-	you'll want to change it to be the domain you're going to use. 
-	All that should be in here is a domain name on the first line and nothing else (like: `example.com`).
--  avatar.JPG
-	This is a smaller version of my gravatar for use as the icon in your browser's address bar. 
-	You should change it to whatever you'd like.
-
-## License
--------
-Open sourced under the [MIT license](LICENSE.md).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alchemz/) 
