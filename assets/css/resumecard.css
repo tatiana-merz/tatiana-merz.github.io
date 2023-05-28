@@ -85,7 +85,7 @@ hr {
     border: 1px solid #dddddd;
     padding: 15px 25px;
     margin: 10px 0;
-    height: 150px;
+    position: fixed;
 }
 
 .grid-block:before {
@@ -122,6 +122,7 @@ hr {
     height: 1px;
     margin: 10px 0;
     border-bottom: 1px dashed #ddd;
+    position: fixed;
 }
 
 /* timeline css */

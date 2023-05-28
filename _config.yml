@@ -1,8 +1,8 @@
 # Site settings
 title: Tatiana Merzhevich
 description: My CV
-favicon: https://raw.githubusercontent.com/tatiana-merz/tatiana-merz.github.io/d3335f3927e1b25fc9e6b2ced9098f46b829cce2/_site/assets/img/me.png
-baseurl: https://tatiana-merz.github.io
+favicon: /d3335f3927e1b25fc9e6b2ced9098f46b829cce2/_site/assets/img/me.png
+baseurl: https://raw.githubusercontent.com/tatiana-merz/tatiana-merz.github.io
 url: https://tatiana-merz.github.io
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
